@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source F:\projects\viparTester\viparTester.sch)
-    (date "3/21/2021 10:05:56 AM")
+    (date "3/21/2021 11:30:27 AM")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -52,7 +52,7 @@
       (tstamp 6056AD7E))
     (comp (ref C4)
       (value 0.1uF)
-      (footprint Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder)
+      (footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part C_Small) (description "Unpolarized capacitor, small symbol"))
       (sheetpath (names /) (tstamps /))
@@ -73,7 +73,7 @@
       (tstamp 6057694C))
     (comp (ref C3)
       (value 0.1uF)
-      (footprint Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder)
+      (footprint Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part C_Small) (description "Unpolarized capacitor, small symbol"))
       (sheetpath (names /) (tstamps /))
